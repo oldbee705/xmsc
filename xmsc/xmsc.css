@@ -274,7 +274,6 @@ body{
 
 .jd-body :hover{
   z-index: 2;
-
   box-shadow: 0 15px 30px rgba(0,0,0,0.1);
   -webkit-transform: translate3d(0, -2px, 0);
   transform: translate3d(0, -2px, 0);
@@ -282,7 +281,6 @@ body{
 
 .jd-body2 :hover{
   z-index: 2;
-
   box-shadow: 0 15px 30px rgba(0,0,0,0.1);
   -webkit-transform: translate3d(0, -2px, 0);
   transform: translate3d(0, -2px, 0);
@@ -431,4 +429,47 @@ body{
   width: 1226px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.intelligence-zc{
+  width: 1226px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.match-bee{
+  width: 1226px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom-705{
+  padding: 30px 0;
+}
+
+.bottom-705-logo{
+  width: 57px;
+  height: 57px;
+  
+}
+
+.bottom-705-wz{
+  float: right;
+}
+
+.bottom-705-wz a{ 
+  font-size: 12px;
+  color: #757575;
+  text-decoration: none;
+}
+
+.bottom-705-wz a:hover{ 
+  font-size: 12px;
+  color: #ff6700
+}
+
+.bottom-705-s{
+  color: #b0b0b0;
+  margin: 0 3px;
+  font-size: 12px;
 }
